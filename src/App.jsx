@@ -136,4 +136,4 @@ function App() {
   );
 }
 
-React.createElement(App, null)
+export default App;
